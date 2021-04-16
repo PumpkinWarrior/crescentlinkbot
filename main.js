@@ -12,7 +12,7 @@ client.command = new Discord.Collection();
 }) 
 
 
-client.login('ODE0MzcyODY4NDg5NzQwMjk5.YDc51g.TYRPM9rjfdO1w2CGFX4flvyw1CU');
+client.login(process.env.token);
 
 
 
