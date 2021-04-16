@@ -1,21 +1,3 @@
-{
-  "name": "crescentlink",
-  "version": "1.0.0",
-  "description": "test bot",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "NekoPao",
-  "license": "ISC",
-  "dependencies": {
-    "@discordjs/opus": "^0.4.0",
-    "discord.js": "^12.5.1",
-    "eslint": "^7.20.0",
-    "ffmpeg": "0.0.4",
-    "ffmpeg-static": "^4.2.7",
-    "fs": "0.0.1-security",
-    "yt-search": "^2.7.3",
-    "ytdl-core": "^4.5.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3488dd03d51a8376d7b3d08cebb3c3af4cefe0a42a79b341888441a80b1c582
+size 756
