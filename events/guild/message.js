@@ -1,6 +1,6 @@
 module.exports = (Discord, client, message) => {
 
-    const prefix = 'cl> ';
+    const prefix = 'crescentlink> ';
     if(!message.content.startsWith(prefix) || message.author.bot) return;
 
     const args = message.content.slice(prefix.length).split(/ +/);
